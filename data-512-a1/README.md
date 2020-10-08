@@ -22,4 +22,7 @@ I have used two APIs for collecting wikipedia page views as mentioned below:
 * [Python](https://www.python.org/)- version 3.6
 * Before installing we recommend setting up a clean [virtual enironment](https://docs.python.org/3.6/tutorial/venv.html).
   
+### License
+This project is available under the [MIT License](https://github.com/Arora-Dhruv/data-512/blob/main/data-512-a1/LICENSE)
 
+[Wikimedia](https://foundation.wikimedia.org/wiki/Terms_of_Use/en)
