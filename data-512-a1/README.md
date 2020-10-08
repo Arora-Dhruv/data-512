@@ -7,7 +7,10 @@ I have used two APIs for collecting wikipedia page views as mentioned below:
 1. [The Legacy Pagecounts API](https://wikitech.wikimedia.org/wiki/Analytics/AQS/Legacy_Pagecounts)
 2. [The Pageviews API](https://wikitech.wikimedia.org/wiki/Analytics/AQS/Legacy_Pagecounts)
 
-## est
+## Features
+1. This project contain reusable code to query wikipedia traffic data via api calls and output into json folder.
+2. The json files are combined and cleaned for further analysis.
+3. The time-series chart is plotted to show traffice over time by differenct access sites such as dekstop, mobile and overall.
 
 ## Final Visualization
 ![Wikipedia Page View Trend](wikipedia%20pageview%20trend%20over%20time%20plot.png)
