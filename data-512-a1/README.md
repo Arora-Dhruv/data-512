@@ -12,6 +12,10 @@ I have used two APIs for collecting wikipedia page views as mentioned below:
 ## Final Visualization
 ![Wikipedia Page View Trend](wikipedia%20pageview%20trend%20over%20time%20plot.png)
 
-## References:
-* [Python 3.6](https://www.python.org/downloads/release/python-360/)
+## Installation
+
+### Main Requirements
+* [Python](https://www.python.org/)- version 3.6
+* Before installing we recommend setting up a clean [virtual enironment](https://docs.python.org/3.6/tutorial/venv.html).
+  
 
