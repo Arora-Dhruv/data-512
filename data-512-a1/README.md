@@ -25,4 +25,4 @@ I have used two APIs for collecting wikipedia page views as mentioned below:
 ### License
 This project is available under the [MIT License](https://github.com/Arora-Dhruv/data-512/blob/main/data-512-a1/LICENSE)
 
-[Wikimedia](https://foundation.wikimedia.org/wiki/Terms_of_Use/en)
+[Wikimedia](https://foundation.wikimedia.org/wiki/Terms_of_Use/en) Terms of use
