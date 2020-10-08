@@ -16,7 +16,7 @@ I have used two APIs for collecting wikipedia page views as mentioned below:
 ![Wikipedia Page View Trend](wikipedia%20pageview%20trend%20over%20time%20plot.png)
 
 ### Known Issues
-1. The data from Pageview API excludes spiders/crawlers, while data from the PageCount API does not. Please use filter on agent="user" for removing crawlers.
+1. The data from Pageview API excludes spiders/crawlers, while data from the PageCount API does not. Please use filter on agent="user" for removing crawlers in PageView API.
 
 ### Main Requirements
 * [Python](https://www.python.org/)- version 3.6
