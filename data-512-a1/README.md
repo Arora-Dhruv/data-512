@@ -6,3 +6,8 @@ This project combine data about Wikipedia page traffic from two different [Wikim
 I have used two APIs for collecting wikipedia page views as mentioned below:
 1. [The Legacy Pagecounts API](https://wikitech.wikimedia.org/wiki/Analytics/AQS/Legacy_Pagecounts)
 2. [The Pageviews API](https://wikitech.wikimedia.org/wiki/Analytics/AQS/Legacy_Pagecounts)
+
+## est
+
+## Final Visualization
+Format: ![Wikipedia Page View Trend]('https://github.com/Arora-Dhruv/data-512/blob/main/data-512-a1/wikipedia%20pageview%20trend%20over%20time%20plot.png')
