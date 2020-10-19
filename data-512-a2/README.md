@@ -38,7 +38,7 @@ I have used two of the three hostile speech data for performing analysis on abov
 ## Conclusion
 Research question 1.: We did find self selection bias in dataset but the bias is not leaked to response bias as per the analysis. We did not find demographic bias in labelling the comments for toxicity hostile speech.
 
-Research question 2.: We did find examples of comments that are labelled as aggressive but not toxic and vice-versa. We compiled the list of words that makes the comments hostile speech but could not reach to conclusion why, as the frequent words coming out to common in both hostile speech's comment. The hypothesis is that it could the way comments are sentenced, leads to toxic or aggressive. 
+Research question 2.: We did find examples of comments that are labelled as aggressive but not toxic and vice-versa. We compiled the list of words that makes the comments hostile speech but could not reach to conclusion, as the frequent words coming out to common in both hostile speech's comment. The hypothesis is that it could be the way comments are sentenced, leads to toxic or aggressive. 
 
 ## Final Visualizations
 Distribution of workers who participated in labeling the comments by different demographic dimensions:
